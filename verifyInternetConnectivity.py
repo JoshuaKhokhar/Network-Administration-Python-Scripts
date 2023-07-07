@@ -2,7 +2,7 @@
 Script Name: verifyInternetConnectivity.py
 Author: Joshua Khokhar
 Creation Date: 7/7/2023
-Purpose: This script verifies the internet connectivity of the host device.
+Purpose: This script verifies the computer's internet connectivity.
 """
 
 import requests
